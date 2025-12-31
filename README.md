@@ -96,11 +96,6 @@ Edit `src/data/portfolioData.js` to add new projects:
 npm run build
 ```
 
-### Deploy to Netlify
-1. Build the project: `npm run build`
-2. Upload the `dist` folder to Netlify
-3. Configure redirects for SPA routing
-
 ### Deploy to Vercel
 1. Connect your GitHub repository to Vercel
 2. Vercel will automatically detect Vite and deploy
@@ -144,13 +139,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📞 Contact
-
-**Yash Kapure**
-- Email: yashkapure06@gmail.com
-- LinkedIn: [linkedin.com/in/yash-kapure](https://linkedin.com/in/yash-kapure)
-- GitHub: [github.com/Yashkapure06](https://github.com/Yashkapure06)
-
----
-
-Made with ❤️ using React, Redux Toolkit, and Tailwind CSS
