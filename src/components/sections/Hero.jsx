@@ -21,8 +21,8 @@ const Hero = () => {
 
   const downloadCV = () => {
     const link = document.createElement("a");
-    link.href = "/cv/Vinay_Frontend_Developer.pdf";
-    link.download = "Vinay_Frontend_Developer.pdf";
+    link.href = "/cv/Vinay_Thatipamula_Resume.pdf";
+    link.download = "Vinay_Thatipamula_Resume.pdf";
     link.click();
   };
 
